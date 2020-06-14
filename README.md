@@ -3,3 +3,5 @@ Object classification and recognition are popular in computer vision. In this pr
 
 The dataset of images of cats and dogs is available at this URL 
 https://www.kaggle.com/vaishnavkapil/feature-detection-cnn/data
+
+This object recognition program is written in latest Tensorflow 2.0.
